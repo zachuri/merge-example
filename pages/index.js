@@ -57,7 +57,6 @@ export default function Home() {
 						/>
 					</div>
 				</div>
-
 				<div className={styles.grid}>
 					<a
 						href='https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app'
@@ -71,7 +70,6 @@ export default function Home() {
 							Find in-depth information about Next.js features and&nbsp;API.
 						</p>
 					</a>
-
 					<a
 						href='https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app'
 						className={styles.card}
